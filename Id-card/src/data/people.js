@@ -17,8 +17,8 @@ export const people = [
   },
   {
     id: "REG-1503",
-    name: "Quincy Ada",
-    role: "Data Analyst",
+    name: "Queen  Ada",
+    role: "Full Stack Developer",
     department: "Full Stack",
     avatar: beatricePhoto,
   },

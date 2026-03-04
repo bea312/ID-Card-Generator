@@ -1,6 +1,7 @@
 import IdCard from "./IdCard";
 
 function CardList({ people }) {
+  
   return (
     <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
       {people.map((person) => (
@@ -16,4 +17,5 @@ function CardList({ people }) {
     </div>
   );
 
-export default CardList;
+}
+ export default CardList;
